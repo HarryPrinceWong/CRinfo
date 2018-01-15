@@ -1,5 +1,3 @@
-# Family Config
-
 If you would like your clan family to be listed at http://cr-api.com/clans — you will need to send us your clan configuration in YAML.
 
 ## Fields
