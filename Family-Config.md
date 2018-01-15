@@ -1,6 +1,6 @@
 If you would like your clan family to be listed at http://cr-api.com/clans — you will need to send us your clan configuration in YAML. Read this guide thoroughly on how to configure it and then [open a new issue](https://github.com/cr-api/cr-api-ux/issues) with your configuration.
 
-Please remember to escape your config as shown below with the three backticks. First to open it, and then to close it.
+Please remember to escape your config as shown below with the three backticks when including it in your issue. First to open it with the three back ticks followed by the language `yaml`, and then to close it at the end.
 
 <img src="https://github.com/cr-api/cr-api-ux/blob/master/media/escape-yaml.png?raw=true" width="300" />
 
