@@ -2,7 +2,7 @@ If you would like your clan family to be listed at http://cr-api.com/clans — 
 
 Please remember to escape your config as shown below with the three backticks. First to open it, and then to close it.
 
-![escape yaml](https://github.com/cr-api/cr-api-ux/blob/master/media/escape-yaml.png?raw=true)
+<img src="https://github.com/cr-api/cr-api-ux/blob/master/media/escape-yaml.png?raw=true" width="300" />
 
 
 ## Fields
