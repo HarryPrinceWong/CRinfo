@@ -1,4 +1,4 @@
-If you would like your clan family to be listed at http://cr-api.com/clans — you will need to send us your clan configuration in YAML.
+If you would like your clan family to be listed at http://cr-api.com/clans — you will need to send us your clan configuration in YAML. Read this guide thoroughly on how to configure it and then [open a new issue](https://github.com/cr-api/cr-api-ux/issues) with your configuration.
 
 ## Fields
 
