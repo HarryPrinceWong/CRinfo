@@ -57,107 +57,196 @@ You may order these in any order. The site will display them according to the or
 
 ### Reddit Alpha Clan Family
 
-http://cr-api.com/clan/family/racf/clans
+https://royaleapi.com/clan/family/racf
+
+[racf.yml](https://github.com/RoyaleAPI/cr-api-ux/blob/master/examples/family_config/racf.yml)
 
 ```yaml
-  - name: Reddit Alpha Clan Family
-    key: racf
-    color: red
-    emblem: A_Char_Rocket_02
-    info:
-      logo: /static/img/brands/logo/racf.svg
-      description: >
-        The **Reddit Alpha Clan Family** (RACF) consists of 8 trophy-pushing clans.
+name: Reddit Alpha Clan Family
+key: racf
+color: red
+track: true
+emblem: A_Char_Rocket_02
+feature: true
+vip: true
+info:
+  logo: /static/img/brands/logo/racf.svg
+  description: >
+    The **Reddit Alpha Clan Family** (RACF) consists of 8 trophy-pushing clans.
+    Our clan family is home to many of Clash Royale’s greatest tournament players,
+    three of whom made it to the Crown Duel.
+    We have 2 clans on the **global leaderboard** with **Reddit Alpha** consistently in the top 20
+    and **Reddit Bravo** consistently in the top 200.
+    Every clan in our family finishes the clan crown chest early every time.
+  social:
+    - twitter: http://twitter.com/RedditAlpha
+    - discord: http://discord.gg/racf
+    - twitch: https://www.twitch.tv/woody
+    - reddit: http://www.reddit.com/r/CRRedditAlpha/
+    - youtube: https://www.youtube.com/channel/UCjC5dP9z3XQY6OEPWh5RiLw
+    - website: http://docs.redditalpha.com
+clans:
+  - name: Reddit Alpha
+    tag: 2CCCP
+  - name: Reddit Bravo
+    tag: 2U2GGQJ
+  - name: Reddit Charlie
+    tag: 2QUVVVP
+  - name: Reddit Delta
+    tag: Y8GYCGV
+  - name: Reddit Echo
+    tag: LGVV2CG
+  - name: Reddit Foxtrot
+    tag: QUYCYV8
+  - name: Reddit Golf
+    tag: GUYGVJY
+  - name: Reddit Hotel
+    tag: UGQ28YU
+  - name: RACF Mini
+    tag: 22LR8JJ2
+  - name: RACF Mini2
+    tag: 2Q09VJC8
+  - name: Alpha One
+    tag: 9882PYJU
+```
 
-        Our clan family is home to many of Clash Royale’s greatest tournament players,
-        three of whom made it to the Crown Duel.
-        We have 2 clans on the **global leaderboard** with **Reddit Alpha** consistently in the top 20
-        and **Reddit Bravo** consistently in the top 200.
-        Every clan in our family finishes the clan crown chest early every time.
-      social:
-        - twitter: http://twitter.com/RedditAlpha
-        - discord: http://discord.gg/racf
-        - twitch: https://www.twitch.tv/woody
-        - reddit: http://www.reddit.com/r/CRRedditAlpha/
-        - youtube: https://www.youtube.com/channel/UCjC5dP9z3XQY6OEPWh5RiLw
-        - website: http://docs.redditalpha.com
-    clans:
-      - name: Reddit Alpha
-        tag: 2CCCP
-      - name: Reddit Bravo
-        tag: 2U2GGQJ
-      - name: Reddit Charlie
-        tag: 2QUVVVP
-      - name: Reddit Delta
-        tag: Y8GYCGV
-      - name: Reddit Echo
-        tag: LGVV2CG
-      - name: Reddit Foxtrot
-        tag: QUYCYV8
-      - name: Reddit Golf
-        tag: GUYGVJY
-      - name: Reddit Hotel
-        tag: UGQ28YU
-      - name: RACF Mini
-        tag: 22LR8JJ2
-      - name: RACF Mini2
-        tag: 2Q09VJC8
+### LeGeND Family
+
+https://royaleapi.com/clan/family/legend
+
+[legend.yml)(https://github.com/RoyaleAPI/cr-api-ux/blob/master/examples/family_config/legend.yml)
+
+```yaml
+name: LeGeND Family
+key: legend
+color: yellow
+track: false
+emblem: Flame_03
+feature: true
+info:
+  logo: /static/img/brands/logo/legend.png
+  description: >
+    The Legend family is one of the oldest and biggest families in Clash Royale
+    with our 700 members and 14 clans!
+    Since creation, we as a family and individual players have grown immensely
+    and continue to today.
+    We believe that’s the reason why we have come so far.
+    **The family is a place for everyone, as our members come from all around the world,
+    from casual to competitive players, old to young,
+    active to very active and so on.**
+    We all share a fellow passion for the game, are friendly, always donate,
+    help each other out with the same goal: to always improve our skills and have a great time!
+    **Join the Family. Become a Legend. **
+  social:
+    - discord: https://discord.me/legendfamily
+    - website: https://legendclans.com
+    - twitter: https://twitter.com/TheLegendClans
+    - facebook: https://www.facebook.com/LegendClans
+    - instagram: https://www.instagram.com/legendclans
+    - youtube: https://www.youtube.com/channel/UCU-_xxoQeJlXx1kJcH1CoBQ
+    - reddit: https://www.reddit.com/user/LegendClans
+    - email: mailto:board@legendclans.com
+clans:
+  - name: Dragons Eight
+    tag: 29YPJYY
+  - name: LeGeND eSports!
+    tag: 2GJYVRYQ
+  - name: LeGeND Squad!
+    tag: 80CC8
+  - name: Dragons Eight 2
+    tag: Y8G9C09
+  - name: LeGeND Prime!
+    tag: 2LL8LC2R
+  - name: LeGeND Titan!
+    tag: 9PJYVVL2
+  - name: LeGeND Legion!
+    tag: VJQ0GJ0
+  - name: LeGeND Rising!
+    tag: RY9QJU2
+  - name: LeGeND Dynasty!
+    tag: 99R2PQVR
+  - name: LeGeND Phantom!
+    tag: 2CJ88808
+  - name: LeGeND Empire!
+    tag: 9P2PQULQ
+  - name: White Plague
+    tag: J0CQ9R9
+  - name: Dragons Eight 3
+    tag: 2ULY20LU
+  - name: LeGeND Academy!
+    tag: 8QRQQ8RG
 ```
 
 ### Nova eSports
 
-http://cr-api.com/clan/family/nova/clans
+https://royaleapi.com/clan/family/nova
+
+[nova.yml](https://github.com/RoyaleAPI/cr-api-ux/blob/master/examples/family_config/nova.yml)
 
 ```yaml
-- name: Nova eSports
-  key: nova
-  color: purple
-  emblem: Star_Shine_03
-  sort: trophy
-  info:
-    logo: /static/img/brands/logo/nova.svg
-    description: >
-      **Competitive excellence through community-driven values.**
-      Nova is a mobile-focused eSports organization committed to empowering
-      individuals through a supportive team environment.
-      We look for talent that has the character to back it up.
-      That talent is cultivated and supported through team-based growth strategies and
-      passionate staff that care about player outcomes.
-      Community is the foundation of those outcomes and is the core of player dedication.
-    social:
-      - website: https://novaesports.com/
-      - twitter: https://twitter.com/NovaeSportsTeam
-      - instagram: https://instagram.com/novaesportsgg
-      - facebook: https://facebook.com/OfficialNovaeSports
-      - twitch: https://twitch.tv/NovaeSportsGG
-      - youtube: https://www.youtube.com/channel/UC4JS5NiRp4Sy1wl6qFkW3GQ
-      - application: https://novaesports.com/apply
-      - email: mailto:pr@novaesports.com
-  clans:
-    - name: Nova eSports
-      tag: LCVUYCR
-    - name: Nova l Brazil
-      tag: JVRPGV8
-    - name: Nova l 大唐天子
-      tag: RVL2PQQ
-    - name: Nova l NA
-      tag: 88UGGYG
-    - name: Nova l Hispania
-      tag: 2CQQVQCU
-    - name: Nova l EG
-      tag: 8YLJ8UL2
-    - name: Nova l JPN
-      tag: 2GYJL2GQ
-    - name: Nova l Canada
-      tag: 8PLYP8V
-    - name: Nova Turkey
-      tag: CYCJJLG
-    - name: Nova l Swiss
-      tag: 8RR89PUY
-    - name: Nova FrenchArmy
-      tag: 8VG2C9CJ
-    - name: GloryMakersNova
-      tag: 8R2C0G9Y
-    - name: Gladiators™Nova
-      tag: 82JRG0UV
+name: Nova eSports
+key: nova
+color: purple
+emblem: Star_Shine_03
+track: false
+feature: true
+sort: trophy
+info:
+  logo: /static/img/brands/logo/nova.svg
+  description: >
+    **Competitive excellence through community-driven values.**
+    Nova is a mobile-focused eSports organization committed to empowering
+    individuals through a supportive team environment.
+    We look for talent that has the character to back it up.
+    That talent is cultivated and supported through team-based growth strategies and
+    passionate staff that care about player outcomes.
+    Community is the foundation of those outcomes and is the core of player dedication.
+  social:
+    - website: https://novaesports.com/
+    - twitter: https://twitter.com/NovaeSportsTeam
+    - instagram: https://instagram.com/novaesportsgg
+    - facebook: https://facebook.com/OfficialNovaeSports
+    - twitch: https://twitch.tv/NovaeSportsGG
+    - youtube: https://www.youtube.com/channel/UC4JS5NiRp4Sy1wl6qFkW3GQ
+    - application: https://novaesports.com/apply
+    - email: mailto:pr@novaesports.com
+clans:
+  - name: Nova eSports
+    tag: LCVUYCR
+  - name: Nova I ARG
+    tag: 8QC8YQJC
+  - name: Nova l Brazil
+    tag: JVRPGV8
+  - name: Nova I C.A
+    tag: 8JLVR9VV
+  - name: Nova l Canada
+    tag: 8PLYP8V
+  - name: Nova l EG
+    tag: 8YLJ8UL2
+  - name: Nova FrenchArmy
+    tag: 8VG2C9CJ
+  - name: Nova l Hispania
+    tag: 2CQQVQCU
+  - name: HK@852 l Nova
+    tag: 8JQQP8UL
+  - name: Nova l India
+    tag: 8GGC990V
+  - name: Nova I Iran
+    tag: 8YGRJ8GG
+  - name: Nova I Korea
+    tag: 92LLJ828
+  - name: Nova l JPN
+    tag: 2GYJL2GQ
+  - name: Nova l MANGÚ™
+    tag: 8JQP02QQ
+  - name: Nova l Potenza
+    tag: 2UP8R99Y
+  - name: Nova l Raze
+    tag: 8UY0CPU2
+  - name: Nova l Swiss
+    tag: 8RR89PUY
+  - name: Nova Turkey
+    tag: CYCJJLG
+  - name: Nova l 大唐天子
+    tag: RVL2PQQ
 ```
