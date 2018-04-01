@@ -114,7 +114,7 @@ clans:
 
 https://royaleapi.com/clan/family/legend
 
-[legend.yml)(https://github.com/RoyaleAPI/cr-api-ux/blob/master/examples/family_config/legend.yml)
+[legend.yml](https://github.com/RoyaleAPI/cr-api-ux/blob/master/examples/family_config/legend.yml)
 
 ```yaml
 name: LeGeND Family
