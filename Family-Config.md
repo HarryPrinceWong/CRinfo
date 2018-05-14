@@ -55,15 +55,15 @@ You may order these in any order. The site will display them according to the or
 
 ## Examples
 
-### Reddit Alpha Clan Family
+### 100 Thieves Clan Family
 
-https://royaleapi.com/clan/family/racf
+https://royaleapi.com/clan/family/100t
 
-[racf.yml](https://github.com/RoyaleAPI/cr-api-ux/blob/master/examples/family_config/racf.yml)
+[100t.yml](https://github.com/RoyaleAPI/cr-api-ux/blob/master/examples/family_config/100t.yml)
 
 ```yaml
-name: Reddit Alpha Clan Family
-key: racf
+name: 100 Thieves Clan Family
+key: 100t
 color: red
 track: true
 emblem: A_Char_Rocket_02
@@ -72,42 +72,37 @@ vip: true
 info:
   logo: /static/img/brands/logo/racf.svg
   description: >
-    The **Reddit Alpha Clan Family** (RACF) consists of 8 trophy-pushing clans.
-    Our clan family is home to many of Clash Royale’s greatest tournament players,
-    three of whom made it to the Crown Duel.
-    We have 2 clans on the **global leaderboard** with **Reddit Alpha** consistently in the top 20
-    and **Reddit Bravo** consistently in the top 200.
-    Every clan in our family finishes the clan crown chest early every time.
+    **100 Thieves** is an esports team competing in the North American region of Clash Royale League.
+    The eight trophy-pushing clans below comprise the ladder branch of the organization.
+    The clans are home to many experienced tournament players, including three participants in the Crown Duel.
+    The clans were created as a result of a merger and re-branding of the Reddit Alpha Clan Family,
+    founded by Woody in January 2016.
   social:
     - twitter: http://twitter.com/RedditAlpha
-    - discord: http://discord.gg/racf
+    - discord: http://discord.gg/100t
     - twitch: https://www.twitch.tv/woody
     - reddit: http://www.reddit.com/r/CRRedditAlpha/
     - youtube: https://www.youtube.com/channel/UCjC5dP9z3XQY6OEPWh5RiLw
     - website: http://docs.redditalpha.com
 clans:
-  - name: Reddit Alpha
-    tag: 2CCCP
-  - name: Reddit Bravo
-    tag: 2U2GGQJ
-  - name: Reddit Charlie
-    tag: 2QUVVVP
-  - name: Reddit Delta
-    tag: Y8GYCGV
-  - name: Reddit Echo
-    tag: LGVV2CG
-  - name: Reddit Foxtrot
-    tag: QUYCYV8
-  - name: Reddit Golf
-    tag: GUYGVJY
-  - name: Reddit Hotel
-    tag: UGQ28YU
-  - name: RACF Mini
-    tag: 22LR8JJ2
-  - name: RACF Mini2
-    tag: 2Q09VJC8
-  - name: Alpha One
-    tag: 9882PYJU
+  - name: 100T Alpha
+    tag: 9PJ82CRC
+  - name: 100T Bravo
+    tag: 9UQJUJC9
+  - name: 100T Charlie
+    tag: 9G99JQPL
+  - name: 100T Delta
+    tag: 9G8VYGL0
+  - name: 100T Echo
+    tag: 9CJ0L9RG
+  - name: 100T Foxtrot
+    tag: 9UQC2P0V
+  - name: 100T Golf
+    tag: 9UG2R2LQ
+  - name: 100T Hotel
+    tag: 9Y9VR2JR
+  - name: 100T Zen
+    tag: 9LPVG9UC
 ```
 
 ### LeGeND Family
