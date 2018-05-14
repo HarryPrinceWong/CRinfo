@@ -22,7 +22,7 @@ This table shows what all those fields mean
 | name | Name of the family. |
 | key | Shortcut name. Used in the URL path. |
 | color | Brand color. See below for acceptable colors. HEX is not supported yet, so use the closest match. |
-| emblem | Clan Badge. Find it from your clan page or look up in [cr-api/cr-api-assets/badges](https://github.com/cr-api/cr-api-assets/tree/master/badges) |
+| emblem | Clan Badge. Find it from your clan page or look up in [RoyaleAPI/cr-api-assets/badges](https://github.com/RoyaleAPI/cr-api-assets/tree/master/badges) |
 | info | Optional information. Used in clans page. |
 | clans | Names and tags of your clans. |
 | sort | Sort order of the clans. Don’t include this field if you wish the clans be sorted according to the order in the `clans` field. Use `sort: trophy` if you want the clans to be sorted according to the clan score. |
@@ -59,7 +59,7 @@ You may order these in any order. The site will display them according to the or
 
 ## Colors
 
-[[https://github.com/cr-api/cr-api-docs/blob/master/docs/img/colors.png|alt=colors]]
+[[https://github.com/RoyaleAPI/cr-api-docs/blob/master/docs/img/colors.png|alt=colors]]
 
 ## Examples
 
