@@ -73,10 +73,7 @@ https://royaleapi.com/clan/family/100t
 name: 100 Thieves Clan Family
 key: 100t
 color: red
-track: true
 emblem: A_Char_Rocket_02
-feature: true
-vip: true
 info:
   logo: /static/img/brands/logo/racf.svg
   description: >
@@ -123,9 +120,7 @@ https://royaleapi.com/clan/family/legend
 name: LeGeND Family
 key: legend
 color: yellow
-track: false
 emblem: Flame_03
-feature: true
 info:
   logo: /static/img/brands/logo/legend.png
   description: >
@@ -191,8 +186,6 @@ name: Nova eSports
 key: nova
 color: purple
 emblem: Star_Shine_03
-track: false
-feature: true
 sort: trophy
 info:
   logo: /static/img/brands/logo/nova.svg
